@@ -40,6 +40,10 @@
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   height: 0.5rem; }
 
+.servicios {
+  margin-top: 5rem;
+  margin-bottom: 5rem; }
+
 /* Formulario Contacto */
 .formContainer__title {
   text-align: center; }
