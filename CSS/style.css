@@ -45,8 +45,9 @@
   margin-bottom: 3rem; }
 
 h3 {
-  font-style: inherit;
-  margin: 1rem; }
+  font-family: 'Fjalla One', sans-serif;
+  margin: 1rem;
+  font-size: 2rem; }
 
 /* Formulario Contacto */
 .formContainer__title {
