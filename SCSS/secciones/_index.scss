@@ -1,3 +1,27 @@
+//header//
+
+
+.fontNav{
+    color: $colorSegundarioTexto;
+    text-decoration-style: solid;
+    font-size: 1.5rem;
+    
+}
+
+.barraNavegacion {
+    
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #161616, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2b2a2a, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+
+.navbar-toggler{
+    color: $colorSegundarioTexto;
+    background-color: #1b5a91;   
+}
 
 .body {
     background: #4B79A1;
@@ -25,10 +49,8 @@
     
 }
 
-h3{
-    font-family: 'Fjalla One', sans-serif;
-    margin: 1rem;
-    font-size: 2rem;
+h2{
+    @extend %tituloServicio
 }
 
 
@@ -83,4 +105,28 @@ h3{
 
 .form__input--submit:hover {
     background-color: #33659b;
+}
+
+//FOOTER//
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    color: $colorSegundarioTexto;
+    background-color: black;
+    text-decoration-style: solid;
+    padding: 2rem;
+    margin: 1rem auto;
+    font-size: 1.1rem;
+}
+
+.linkHeader {
+    position: fixed;
+    justify-content: center;
+    bottom: 2%;
+    right: 2%;
+    margin: 1rem;
 }

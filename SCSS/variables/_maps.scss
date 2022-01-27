@@ -1,0 +1,13 @@
+$textoClave: (calidad: rgb(4, 27, 49),
+    profesional: rgb(49, 49, 61),
+    productores: rgb(90, 69, 1),
+);
+
+@each $clase, $color in $textoClave {
+    .#{$clase} {
+        color: $color;
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 18px;
+    }
+}

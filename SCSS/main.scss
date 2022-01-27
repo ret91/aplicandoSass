@@ -9,13 +9,12 @@
 //Primero Variables//
 
 @import "./variables/colores";
-
+@import "./variables/maps";
+@import "./variables/extend";
 
 
 
 
 //Secciones//
 
-@import "./secciones/header";
-@import "./secciones/main";
-@import "./secciones/footer";
+@import "./secciones/index";
