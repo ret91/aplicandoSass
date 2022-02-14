@@ -11,13 +11,13 @@
   font-size: 18px; }
 
 .profesional {
-  color: #31313d;
+  color: #041b31;
   font-weight: bold;
   text-decoration: underline;
   font-size: 18px; }
 
 .productores {
-  color: #5a4501;
+  color: #041b31;
   font-weight: bold;
   text-decoration: underline;
   font-size: 18px; }
@@ -66,8 +66,8 @@ h2 {
   height: 0.5rem; }
 
 .servicios {
-  margin-top: 3em;
-  margin-bottom: 3rem; }
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
 
 /* Formulario Contacto */
 .formContainer__title {

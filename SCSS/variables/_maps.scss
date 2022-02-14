@@ -1,6 +1,6 @@
 $textoClave: (calidad: rgb(4, 27, 49),
-    profesional: rgb(49, 49, 61),
-    productores: rgb(90, 69, 1),
+    profesional: rgb(4, 27, 49),
+    productores: rgb(4, 27, 49),
 );
 
 @each $clase, $color in $textoClave {
