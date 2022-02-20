@@ -29,10 +29,27 @@ h2 {
   text-decoration: underline;
   font-weight: bold; }
 
+h1 {
+  font-family: "Anton";
+  margin: 1rem;
+  font-size: 3rem;
+  text-decoration: underline;
+  font-weight: bold; }
+
 .fontNav {
   color: #c5cddf;
   text-decoration-style: solid;
   font-size: 1.2rem; }
+
+.fontNav:hover {
+  color: #4B79A1;
+  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to right, #283E51, #1b5a91);
+  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to right, #283E51, #4B79A1); }
+
+.dropdown-item:hover {
+  background-color: #c5cddf; }
 
 .barraNavegacion {
   background: #000000;
@@ -68,6 +85,12 @@ h2 {
 .servicios {
   margin-top: 2rem;
   margin-bottom: 2rem; }
+
+h2:hover {
+  text-shadow: 0 0 15px #c5cddf, 0 0 10px #c5cddf, 0px 3px 17px rgba(108, 116, 228, 0.22); }
+
+h1:hover {
+  text-shadow: 1px 0px 1px #93a4cf, 1px 1px 1px; }
 
 /* Formulario Contacto */
 .formContainer__title {
@@ -127,3 +150,20 @@ footer {
   bottom: 2%;
   right: 2%;
   margin: 1rem; }
+
+.imgServ {
+  width: 1500px; }
+
+li {
+  list-style: none; }
+
+.elEstudio {
+  margin-bottom: 3rem; }
+
+svg:hover {
+  color: #c5cddf;
+  font-weight: bold; }
+
+h3:hover {
+  color: #c5cddf;
+  font-weight: bold; }

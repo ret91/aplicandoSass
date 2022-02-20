@@ -8,6 +8,19 @@
     
 }
 
+.fontNav:hover{
+    color: #4B79A1;
+    /* fallback for old browsers */
+    color: -webkit-linear-gradient(to right, #283E51, #1b5a91);
+    /* Chrome 10-25, Safari 5.1-6 */
+    color: linear-gradient(to right, #283E51, #4B79A1);
+}
+
+.dropdown-item:hover{
+    background-color:rgb(197, 205, 223);
+}
+
+
 .barraNavegacion {
     
     background: #000000;  /* fallback for old browsers */
@@ -53,6 +66,21 @@
 h2{
     @extend %tituloServicio
 }
+
+h2:hover{
+    text-shadow: 0 0 15px rgb(197, 205, 223), 0 0 10px rgb(197, 205, 223), 0px 3px 17px rgba(108, 116, 228, 0.22);
+
+}
+
+
+h1:hover{
+    text-shadow: 1px -0px 1px rgb(147, 164, 207), 1px 1px 1px ;
+}
+
+h1{
+    @extend %tituloPrincipal
+}
+
 
 
 /* Formulario Contacto */
