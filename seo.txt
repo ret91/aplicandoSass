@@ -1,8 +1,20 @@
-<!-- SEO INDEX -->
-    <meta name="description" content="Estudio de Grabación, Mezcla, Mastering y Producción Musical"> 
-    <meta name="keywords" content="Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical">
+<!-- SEO Index-->
+    <meta name="description" content="Estrada Records, Estudio de Grabación, Mezcla, Mastering y Producción Musical"> 
+    <meta name="keywords" content="Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical, Don Torcuato">
 
+<!-- SEO Servicios -->
+    <meta name="description" content="Estrada Records, Nuestros Servicios Estrada Records">
+    <meta name="keywords" content="Servicios, estrada records, Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical, foley, multimedia, Don Torcuato">
 
- <!-- SEO REFERENCIAS -->
+<!-- SEO Nosotros -->
+    <meta name="description" content="Sobre nosotros, Estrada Records">
+    <meta name="keywords" content="Nuestras Instalaciones, estrada records, Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical, equipamiento">
+
+<!-- SEO Refrencias, Trabajos realizados -->
      <meta name="description" content="Trabajos realizados en Estrada Records"> 
      <meta name="keywords" content="referencias, estrada records, Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical, favio pitty ojeda, lo que dicen las vecinas, argenagrev">
+    
+
+<!-- SEO Contactanos -->
+    <meta name="description" content="Formulario de contacto Estrada Records">
+    <meta name="keywords" content="contacto, contactanos, estrada records, Homestudio, grabación, mezcla, mastering, edición, sonido, musica, beatmaking, producción musical, Don Torcuato">

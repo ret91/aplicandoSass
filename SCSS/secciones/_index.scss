@@ -67,6 +67,8 @@ h2{
     @extend %tituloServicio
 }
 
+
+
 h2:hover{
     text-shadow: 0 0 15px rgb(197, 205, 223), 0 0 10px rgb(197, 205, 223), 0px 3px 17px rgba(108, 116, 228, 0.22);
 
@@ -80,6 +82,8 @@ h1:hover{
 h1{
     @extend %tituloPrincipal
 }
+
+
 
 
 
@@ -137,6 +141,7 @@ h1{
 }
 
 //FOOTER//
+
 
 footer {
     display: flex;
